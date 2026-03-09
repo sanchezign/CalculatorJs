@@ -24,14 +24,3 @@ Efectos visuales: Botones con hover y active states para una mejor experiencia d
 HTML5:   Estructura la interfaz (pantalla y botones).  
 CSS3:    Estiliza la calculadora con un diseño moderno (colores en tonos azules y verdes, sombras, transiciones).  
 JavaScript:    Maneja la lógica de cálculos, eventos de clic y actualización de la pantalla.  
-
-
-**Instalación y Ejecución**  
-
-1-Clona el repositorio:  
-
-    git clone https://github.com/sanchezign/CalculatorJs.git
-
-2-Navega al directorio del proyecto:  
-
-    cd CalculatorJs
