@@ -14,7 +14,7 @@ Botón "C" : Limpia la pantalla y resetea la expresión.
 Botón "←" : Elimina el último carácter ingresado.  
 Botón "=" : Calcula el resultado de la expresión actual.   
 Soporte para números decimales (usando ".").  
-Cálculos encadenados: Permite continuar operaciones después de un resultado (por ejemplo, sumar al resultado previo).  
+Cálculos encadenados: Permite continuar operaciones después de un resultado.  
 Prevención de errores: No permite operadores consecutivos ni entradas inválidas.  
 Interfaz responsive: Se adapta a diferentes tamaños de pantalla, con un diseño en grid.  
 Efectos visuales: Botones con hover y active states para una mejor experiencia de usuario.   
