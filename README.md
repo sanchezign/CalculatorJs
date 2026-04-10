@@ -1,3 +1,4 @@
+
 # 📱 Calculadora JS
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)
@@ -5,6 +6,8 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
 **Una calculadora moderna y responsive hecha solo con HTML, CSS y JavaScript puro.**
+
+<img width="250" height="350" alt="calculator" src="https://github.com/user-attachments/assets/ff57b88e-4db3-4b65-b552-7a5edb87004f" />
 
 ---
 
