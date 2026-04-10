@@ -1,26 +1,38 @@
-**Calculadora JS.**
+# 📱 Calculadora JS
 
-**Descripción:**
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
-Esta es una calculadora simple desarrollada con JS, HTML y CSS. Permite realizar operaciones matemáticas básicas de manera intuitiva a través de una interfaz gráfica en el navegador.
+**Una calculadora moderna y responsive hecha solo con HTML, CSS y JavaScript puro.**
 
-**Características.**
+---
 
-Operaciones soportadas: (+),(-),(x),(%).   
+## ✨ Características
 
-**Funciones adicionales:** 
+- Operaciones básicas: **suma (+), resta (-), multiplicación (×) y división (%)**
+- Soporte completo para **números decimales** (punto `.`)
+- **Cálculos encadenados** (puedes seguir operando después de obtener un resultado)
+- Botón **C** → borra todo y resetea la calculadora
+- Botón **←** → borra el último carácter ingresado
+- Botón **=** → muestra el resultado
+- **Prevención de errores** inteligente (no permite operadores consecutivos ni expresiones inválidas)
+- Diseño **totalmente responsive** (se adapta a cualquier pantalla)
+- Interfaz moderna con efectos de **hover** y **active** en todos los botones
+- Código limpio y fácil de entender
 
-Botón "C" : Limpia la pantalla y resetea la expresión.  
-Botón "←" : Elimina el último carácter ingresado.  
-Botón "=" : Calcula el resultado de la expresión actual.   
-Soporte para números decimales (usando ".").  
-Cálculos encadenados: Permite continuar operaciones después de un resultado.  
-Prevención de errores: No permite operadores consecutivos ni entradas inválidas.  
-Interfaz responsive: Se adapta a diferentes tamaños de pantalla, con un diseño en grid.  
-Efectos visuales: Botones con hover y active states para una mejor experiencia de usuario.   
+---
 
-**Tecnologías Usadas.**
+## 🛠️ Tecnologías utilizadas
 
-HTML5:   Estructura la interfaz (pantalla y botones).  
-CSS3:    Estiliza la calculadora con un diseño moderno (colores en tonos azules y verdes, sombras, transiciones).  
-JavaScript:    Maneja la lógica de cálculos, eventos de clic y actualización de la pantalla.  
+- **HTML5** – Estructura semántica
+- **CSS3** – Diseño moderno con Grid y efectos visuales
+- **Vanilla JavaScript** – Lógica completa de la calculadora (sin librerías)
+
+---
+
+## 🚀 Cómo usarla
+
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/sanchezign/CalculatorJs.git
